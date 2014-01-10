@@ -178,7 +178,6 @@
     <Compile Include="Helpers\Constants.cs" />
     <Compile Include="ModelBinders\DataSourceRequestModelBinder.cs" />
     <Compile Include="Models\Customer.cs" />
-    <Compile Include="Models\CustomerModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
